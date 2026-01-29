@@ -1,57 +1,63 @@
 <div align="center">
 
 # Ashlesha Shrikhande
-**AI Engineer | Full Stack Developer** *9.81 CGPA | University Rank 1 (Gold Medalist)*
+### AI Engineer | Full Stack
+**Chhatrapati Sambhajinagar, MH, India**
 
-[LinkedIn](https://www.linkedin.com/in/ashlesha-shrikhande/) • [Email](mailto:ashlesha.shrikhande@gmail.com) • [Portfolio](https://yourportfolio.com) • [Publications](https://yourpublicationlink.com)
+[![](https://img.shields.io/badge/Phone-9090909090-091F92?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919090909090)
+[![](https://img.shields.io/badge/Email-ashlesha.shrikhande@gmail.com-091F92?style=flat-square&logo=gmail&logoColor=white)](mailto:ashlesha.shrikhande@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-ashlesha--shrikhande-091F92?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlesha-shrikhande/)
+[![](https://img.shields.io/badge/GitHub-Ashlesha--Shrikhande-091F92?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashlesha-Shrikhande)
+[![](https://img.shields.io/badge/Portfolio-yourportfolio.com-091F92?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![](https://img.shields.io/badge/Publications-Read_More-091F92?style=flat-square&logo=read-the-docs&logoColor=white)](https://yourpublicationlink.com)
 
 ---
 
 > [!IMPORTANT]
-> **Summary:** B.Tech AI & Data Science student. Experienced in LLMOps and full-stack development. Recently completed a Generative AI Internship at Google Cloud (SmartBridge).
+> **Summary:** Highly motivated AI/Data Science undergraduate with a **9.81 CGPA** and **University Rank 1 (Gold Medalist)**. Proven ability to lead technical teams and build scalable LLM/Generative AI solutions.
 
 ---
 
 </div>
 
-## 🛠️ Technical Stack
-**Languages:** Python (Core), C++, Java, TypeScript, JavaScript, SQL  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn, Next.js, React, SpringBoot  
-**Cloud/DevOps:** AWS (S3/Lambda/EC2), GCP, Docker, Kubernetes, Jenkins  
-**Data/Vector:** Pinecone, PostgreSQL, MongoDB, Neo4j, PowerBI
+## 🎓 Education
+**Bachelor of Technology in Artificial Intelligence and Data Science** | *06/2023 – 05/2027* *MGM's Jawaharlal Nehru Engineering College (JNEC)* | **CGPA: 9.81** * **Honors:** Cybersecurity | **Minor:** Business Analytics.
+* **Awards:** Shishyottam Puraskar (Best Student Award) | University Rank 1 (Gold Medalist).
+* **Coursework:** Machine Learning, Deep Learning, NLP, Computer Vision, Cloud Computing.
 
 ---
 
-## 💼 Professional Experience
-**Google Cloud Generative AI Intern** | *SmartBridge* | *Sep 2025 – Nov 2025*
-* Developed GenAI workflows using **Next.js**, **PyTorch**, and **AWS**.
-* Automated model deployment pipelines using **Jenkins** and **PowerShell**.
+## 💼 Work Experience
+**Google Cloud Generative AI Intern** | *SmartBridge (Virtual / Remote)* | *09/2025 – 11/2025* * **Tech Stack:** `Next.js` `TypeScript` `PyTorch` `AWS` `Jenkins`.
+* Automated model loading processes and aggregated XML test results using PowerShell and CI/CD pipelines.
 
 ---
 
-## 🚀 Key Project
-**Ticket Price Calculator** | [GitHub Repo](https://github.com/Ashlesha-Shrikhande)
-* Built a high-performance Java/Android application with complex back-end logic.
-* Integrated multi-scene UI state management to handle real-time calculations.
+## 🚀 Selected Projects
+**Ticket Price Calculator App** | [GitHub Repo](https://github.com/Ashlesha-Shrikhande)  
+* **Stack:** `Next.js` `TypeScript` `PyTorch` `AWS` `React`.
+* Built a Java/Android application for museum ticket calculations with complex back-end logic and interactive UI.
 
 ---
 
-## 🎓 Education & Certifications
-* **B.Tech in AI & Data Science:** MGM's JNEC (2023–2027) — **9.81 CGPA**
-* **Oracle Certified Professional:** Data Science & Gen AI
-* **SnowPro Associate:** Snowflake Platform Certification
-* **GCP Gen AI:** 25 Professional Skill Badges
+## 🛠️ Technical & Soft Skills
+* **Languages:** Python (Core), C, C++, Java, TypeScript, JavaScript.
+* **Frameworks:** PyTorch, TensorFlow, SpringBoot, Scikit-learn, NumPy, Pandas.
+* **Cloud/DevOps:** AWS (EC2/S3/Lambda), GCP, Docker, Kubernetes, CI/CD.
+* **Data/Vector:** PostgreSQL, MySQL, MongoDB, Oracle, Pinecone, Neo4j.
 
 ---
 
-## 📊 Performance Metrics
+## 📜 Certifications
+* **Oracle Professional:** Data Science, Gen AI, and AI Vector Search.
+* **SnowPro® Associate:** Snowflake Platform Certification.
+* **Neo4j Graph:** Data Science Certification.
+* **GCP Gen AI:** 25 Professional Skill Badges & Arcade Milestone Achiever.
+
+---
+
+## 📊 GitHub System Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashlesha-Shrikhande&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlesha-Shrikhande&layout=compact&theme=transparent&hide_border=true" width="40%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha-Shrikhande&theme=transparent&hide_border=true" width="88%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashlesha-Shrikhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlesha-Shrikhande&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
