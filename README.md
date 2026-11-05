@@ -18,22 +18,6 @@ I am a final-year B.Tech student in Artificial Intelligence and Data Science, fo
 
 ---
 
-### Featured Projects
-
-#### Project Resume Refactorer
-An AI-powered resume optimization application utilizing advanced RAG pipelines.
-* **Tech Stack:** Spring Boot, React, TypeScript, PostgreSQL, SQLite, Docker.
-* **Process & Impact:** Built an automated LLM parsing core that boosted keyword matching accuracy by 35% and cut manual tracking efforts by 50%.
-* **Repository:** [://github.com](https://://github.com)
-
-#### Google Cloud Generative AI Modules
-Cloud-native exploratory modules optimizing retrieval metrics for enterprise applications.
-* **Tech Stack:** Python, GCP Vertex AI, Vector Search, Cloud Functions.
-* **Process & Impact:** Engineered targeted scripts that reduced model hallucinations by 25% and boosted inference throughput by 30% via smart caching.
-* **Repository:** [://github.com](https://://github.com)
-
----
-
 ### Contact & Connect
 
 * **LinkedIn:** [://linkedin.com](https://://linkedin.com)
