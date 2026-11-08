@@ -8,16 +8,6 @@ I am a final-year B.Tech student in Artificial Intelligence and Data Science, fo
 
 ---
 
-### Core Tech Stack.
-
-* **Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
-* **AI Engineering:** LLMs, RAG, LangChain, Hugging Face, OpenAI API, Vertex AI
-* **Data Engineering:** Airflow, PySpark, Kafka, Data Modeling, ETL Pipelines
-* **Frameworks & Libraries:** PyTorch, TensorFlow, FastAPI, Spring Boot, React, Next.js
-* **Cloud & DevOps:** AWS (EC2, S3, SageMaker, Lambda), GCP, Docker, Kubernetes, GitHub Actions
-
----
-
 ### Contact & Connect
 
 * **LinkedIn:** [://linkedin.com](https://://linkedin.com)
