@@ -8,7 +8,7 @@ I am a final-year B.Tech student in Artificial Intelligence and Data Science, fo
 
 ---
 
-### Core Tech Stack
+### Core Tech Stack.
 
 * **Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
 * **AI Engineering:** LLMs, RAG, LangChain, Hugging Face, OpenAI API, Vertex AI
