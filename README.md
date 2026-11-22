@@ -1,6 +1,1 @@
-# Ashlesha Shrikhande
-
-I am a final-year B.Tech student in Artificial Intelligence and Data Science, focused on the entire data lifecycle, from building data pipelines to deploying scalable AI models. 
-
-* **What I do:** Turn complex data infrastructures into clear, scalable, and user-centric AI solutions.
-* **Current focus:** Scaling Large Language Model (LLM) workflows and optimizing Retrieval-Augmented Generation (RAG) architectures.
+Hi, I'm Ashlesha (Ashle). I build full-stack agentic AI applications, with a particular interest in Agentic OCR. I work across Azure AI and data engineering, backed by certifications in AI-103, DP-800, DP-700 and DP-600. Lately, I've been exploring how far AI agents can go beyond generating responses to actually getting things done.
